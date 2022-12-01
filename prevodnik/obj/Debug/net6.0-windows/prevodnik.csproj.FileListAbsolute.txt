@@ -1,0 +1,17 @@
+G:\RPR\prevodnik\prevodnik\obj\Debug\net6.0-windows\prevodnik.csproj.AssemblyReference.cache
+G:\RPR\prevodnik\prevodnik\obj\Debug\net6.0-windows\prevodnik.Form1.resources
+G:\RPR\prevodnik\prevodnik\obj\Debug\net6.0-windows\prevodnik.csproj.GenerateResource.cache
+G:\RPR\prevodnik\prevodnik\obj\Debug\net6.0-windows\prevodnik.GeneratedMSBuildEditorConfig.editorconfig
+G:\RPR\prevodnik\prevodnik\obj\Debug\net6.0-windows\prevodnik.AssemblyInfoInputs.cache
+G:\RPR\prevodnik\prevodnik\obj\Debug\net6.0-windows\prevodnik.AssemblyInfo.cs
+G:\RPR\prevodnik\prevodnik\obj\Debug\net6.0-windows\prevodnik.csproj.CoreCompileInputs.cache
+G:\RPR\prevodnik\prevodnik\bin\Debug\net6.0-windows\prevodnik.exe
+G:\RPR\prevodnik\prevodnik\bin\Debug\net6.0-windows\prevodnik.deps.json
+G:\RPR\prevodnik\prevodnik\bin\Debug\net6.0-windows\prevodnik.runtimeconfig.json
+G:\RPR\prevodnik\prevodnik\bin\Debug\net6.0-windows\prevodnik.dll
+G:\RPR\prevodnik\prevodnik\bin\Debug\net6.0-windows\prevodnik.pdb
+G:\RPR\prevodnik\prevodnik\obj\Debug\net6.0-windows\prevodnik.dll
+G:\RPR\prevodnik\prevodnik\obj\Debug\net6.0-windows\refint\prevodnik.dll
+G:\RPR\prevodnik\prevodnik\obj\Debug\net6.0-windows\prevodnik.pdb
+G:\RPR\prevodnik\prevodnik\obj\Debug\net6.0-windows\prevodnik.genruntimeconfig.cache
+G:\RPR\prevodnik\prevodnik\obj\Debug\net6.0-windows\ref\prevodnik.dll
