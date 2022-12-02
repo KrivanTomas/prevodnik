@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\RPR\\prevodnik\\prevodnik\\prevodnik.csproj",
+      "projectUniqueName": "G:\\Dokumenty\\GitHub\\prevodnik\\prevodnik\\prevodnik.csproj",
       "projectName": "prevodnik",
-      "projectPath": "G:\\RPR\\prevodnik\\prevodnik\\prevodnik.csproj",
+      "projectPath": "G:\\Dokumenty\\GitHub\\prevodnik\\prevodnik\\prevodnik.csproj",
       "packagesPath": "C:\\Users\\krivant.05\\.nuget\\packages\\",
-      "outputPath": "G:\\RPR\\prevodnik\\prevodnik\\obj\\",
+      "outputPath": "G:\\Dokumenty\\GitHub\\prevodnik\\prevodnik\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -38,12 +38,13 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(360, 177);
+            this.button1.Location = new System.Drawing.Point(360, 157);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
@@ -79,18 +80,22 @@
             this.maskedTextBox1.Name = "maskedTextBox1";
             this.maskedTextBox1.Size = new System.Drawing.Size(283, 23);
             this.maskedTextBox1.TabIndex = 6;
+            this.maskedTextBox1.TextChanged += new System.EventHandler(this.maskedTextBox1_TextChanged);
             // 
             // comboBox1
             // 
+            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
-            "Binární",
-            "Decimální",
-            "Hexadecimální"});
+            "BIN",
+            "DEC",
+            "HEX"});
             this.comboBox1.Location = new System.Drawing.Point(121, 99);
+            this.comboBox1.MaxDropDownItems = 3;
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 23);
             this.comboBox1.TabIndex = 7;
+            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // Form1
             // 
